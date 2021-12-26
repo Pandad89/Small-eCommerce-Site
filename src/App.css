@@ -1,0 +1,28 @@
+.Navbar {
+  text-align: center;
+  align-items: center;
+  padding-left: 2rem;
+  display: flex;
+  gap: 2rem;
+  background-color: cornflowerblue;
+  height: 8vh;
+}
+.Body{
+  display: flex;
+  gap: 2rem;
+  align-items: center;
+  justify-content: center;
+  height: 92vh;
+  background-color: #4668A5;
+  padding-left: 2rem;
+  padding-right: 2rem;
+}
+.Item{
+  height: 20rem;
+  width: 15rem;
+  background-color: #5A86D5;
+}
+.Cart{
+  margin-left: 75rem;
+}
+
